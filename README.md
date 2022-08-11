@@ -5,6 +5,14 @@
 ![khy69's GitHub stats](https://github-readme-stats.vercel.app/api?username=khy69&show_icons=true&theme=tokyonight)
 
 <!--START_SECTION:waka-->
+
+```text
+From: 10 August 2022 - To: 11 August 2022
+
+Rust   1 hr 10 mins    █████████████████████████   99.65 %
+Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+```
+
 <!--END_SECTION:waka-->
 
 
