@@ -5,7 +5,7 @@
 ![khy69's GitHub stats](https://github-readme-stats.vercel.app/api?username=khy69&show_icons=true&theme=tokyonight)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hengyue)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hengyue&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 
