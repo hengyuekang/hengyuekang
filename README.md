@@ -4,6 +4,9 @@
 
 ![khy69's GitHub stats](https://github-readme-stats.vercel.app/api?username=khy69&show_icons=true&theme=tokyonight)
 
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=khy69)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--START_SECTION:waka-->
 
 ```text
