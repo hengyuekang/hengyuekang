@@ -10,11 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 August 2022 - To: 11 August 2022
+From: 10 August 2022 - To: 12 August 2022
 
-Rust   1 hr 11 mins    █████████████████████████   99.63 %
-Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-TOML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Rust       2 hrs 27 mins   ████████████████████████▓   98.07 %
+Markdown   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+TOML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
