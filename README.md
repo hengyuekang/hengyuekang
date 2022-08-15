@@ -10,7 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 August 2022 - To: 15 August 2022
+From: 10 August 2022 - To: 16 August 2022
 
 Rust         4 hrs 46 mins   ██████████████████████▒░░   89.04 %
 C            15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
